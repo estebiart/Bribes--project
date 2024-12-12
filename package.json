@@ -1,0 +1,25 @@
+{
+  "name": "bribes-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "5.9.55",
+    "gsap": "^3.12.2",
+    "vite-plugin-vuetify": "^2.0.1",
+    "vue": "^3.3.11",
+    "vue-router": "^4.2.5",
+    "vuetify": "^3.4.0-beta.1",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.2",
+    "sass": "^1.70.0",
+    "vite": "^5.0.8"
+  }
+}
